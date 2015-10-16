@@ -1,0 +1,86 @@
+.whats{
+ border: 1px solid;
+    margin-right: 249px;
+    margin-top: 14px;
+    margin-left: 27px;
+    border-radius: 6px; 
+    border-color:grey;
+    padding-bottom: 47px;
+}
+
+.textar{
+ font-weight:100;
+   
+    margin-left: 20px;
+    font-size: x-large;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding:26px;
+    padding-right:438px;   
+    
+    
+}
+    .img1{
+    width: 74px;
+    margin-left:-21px;
+    margin-top: 13px;
+    }
+.img2{
+ width: 817px;
+    padding-right: -21px;
+    margin-left: 27px;  
+}
+
+.whats2{
+    padding-right: 536px;
+    margin-left: -20px;
+    
+    
+}
+.link1{
+    color: grey;   
+}
+
+.addph{
+    
+ margin-left: 58px;
+    margin-top: 7px;   
+    
+}
+.addvid{
+ margin-left: 165px;
+    margin-top: -25px;   
+}
+.update{
+ margin-top: -40px;
+    margin-right: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 1px;   
+    
+}
+
+.img3{
+ width: 74px;
+    margin-left: -21px;
+    margin-top: 13px;   
+}
+  .content1{
+    min-height: 122px;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+      margin-top: -8px;
+       
+  }
+    .content2{
+    min-height: 250px;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top:-23px;
+    }
