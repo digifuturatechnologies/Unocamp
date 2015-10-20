@@ -1,0 +1,87 @@
+.change-button-style{
+color: black;
+    background-color: white;
+    height: 32px;
+    margin-top: -14px;
+    margin-left: 13px;
+    /* border: 8px; */
+    border-radius: 8px;
+    width: 105px;
+}
+.mar5{
+padding-top: 211px;
+    background-color: #fff;
+    min-height: 800px;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.mar6{
+padding-top: 0px;
+    background-color: #fff;
+    min-height: 800px;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.social-content{
+   margin-top: -131px;
+}
+.inner-menu-margin{
+    margin-top: 22px;
+}
+.group-content{
+margin-top: -74px;
+}
+.members-button{
+margin-right: 31px;
+    background-color: #ffa200;
+    color: white;
+}
+.requests-members-margin{
+    margin-top:18px;
+}
+.members-pad{
+padding-top: 25px;
+}
+.member-color{
+color:#bac0c3;
+}
+.box-margin{
+margin-bottom: 25px;
+}
+.group-margin-2{
+margin-left: -13px;
+}
+.room-basicol{
+margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: -16px;
+}
+.profile-basic{
+margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 96px;
+}
+.profile-followers-pad{
+padding-top: 8px;
+}
+.profile-save-button{
+background-color: #FFA200;
+    border-color: #FFA200;
+    border-radius: 0px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: -11px;
+    width: 99px;
+}
+.profile-delete{
+background-color: white;
+    color: #ffa200;
+    margin-right: 10px;
+}
+.edit-profile-delete{
+margin-right: 10px;
+}
+.basicolar{
+margin-bottom: 10px;
+    margin-top: 10px;
+}
